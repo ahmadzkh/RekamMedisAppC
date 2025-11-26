@@ -1,0 +1,50 @@
+﻿@model IEnumerable<RekamMedisAppBaru.Models.Pasien>
+
+@{
+    ViewData["Title"] = "Daftar Pasien";
+}
+
+<h1>Daftar Pasien</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Tambah Pasien Baru</a>
+    <a asp-action="Cetak" class="btn btn-success" target="_blank">🖨️ Cetak Laporan</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Nama
+            </th>
+            <th>
+                Alamat
+            </th>
+            <th>
+                No. Telepon
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nama)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Alamat)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.NoTelp)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.IdPasien">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.IdPasien">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.IdPasien">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

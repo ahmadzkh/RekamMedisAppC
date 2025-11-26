@@ -1,0 +1,30 @@
+﻿@model RekamMedisAppBaru.Models.Pasien
+
+@{
+    ViewData["Title"] = "Hapus Pasien";
+}
+
+<h1>Hapus Pasien</h1>
+
+<h3>Apakah Anda yakin ingin menghapus data ini?</h3>
+<div>
+    <h4>@Model.Nama</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">Nama</dt>
+        <dd class="col-sm-10">@Html.DisplayFor(model => model.Nama)</dd>
+
+        <dt class="col-sm-2">NIK</dt>
+        <dd class="col-sm-10">@Html.DisplayFor(model => model.Nik)</dd>
+
+        <dt class="col-sm-2">Tanggal Lahir</dt>
+        <dd class="col-sm-10">@Model.TanggalLahir.ToString("dd MMMM yyyy")</dd>
+    </dl>
+
+    <form asp-action="Delete" method="post">
+        @* Simpan ID pasien yang akan dihapus *@
+        <input type="hidden" asp-for="IdPasien" />
+        <input type="submit" value="Hapus" class="btn btn-danger" />
+        <a asp-action="Index" class="btn btn-secondary">Batal</a>
+    </form>
+</div>

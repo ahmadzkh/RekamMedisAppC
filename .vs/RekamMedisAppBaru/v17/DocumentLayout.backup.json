@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Documents\\KULIAH\\Lab\\Lab TI\\4IA27\\Rekayasa Perangkat Lunak 2\\Code\\M5\\RekamMedisAppBaru\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{201D5A1E-85F3-4877-A044-24D164944638}|RekamMedisAppBaru.csproj|e:\\documents\\kuliah\\lab\\lab ti\\4ia27\\rekayasa perangkat lunak 2\\code\\m5\\rekammedisappbaru\\data\\rekammediscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{201D5A1E-85F3-4877-A044-24D164944638}|RekamMedisAppBaru.csproj|solutionrelative:data\\rekammediscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{201D5A1E-85F3-4877-A044-24D164944638}|RekamMedisAppBaru.csproj|e:\\documents\\kuliah\\lab\\lab ti\\4ia27\\rekayasa perangkat lunak 2\\code\\m5\\rekammedisappbaru\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{201D5A1E-85F3-4877-A044-24D164944638}|RekamMedisAppBaru.csproj|solutionrelative:controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{201D5A1E-85F3-4877-A044-24D164944638}|RekamMedisAppBaru.csproj|e:\\documents\\kuliah\\lab\\lab ti\\4ia27\\rekayasa perangkat lunak 2\\code\\m5\\rekammedisappbaru\\views\\patients\\cetak.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{201D5A1E-85F3-4877-A044-24D164944638}|RekamMedisAppBaru.csproj|solutionrelative:views\\patients\\cetak.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{201D5A1E-85F3-4877-A044-24D164944638}|RekamMedisAppBaru.csproj|e:\\documents\\kuliah\\lab\\lab ti\\4ia27\\rekayasa perangkat lunak 2\\code\\m5\\rekammedisappbaru\\views\\patients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{201D5A1E-85F3-4877-A044-24D164944638}|RekamMedisAppBaru.csproj|solutionrelative:views\\patients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{201D5A1E-85F3-4877-A044-24D164944638}|RekamMedisAppBaru.csproj|e:\\documents\\kuliah\\lab\\lab ti\\4ia27\\rekayasa perangkat lunak 2\\code\\m5\\rekammedisappbaru\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{201D5A1E-85F3-4877-A044-24D164944638}|RekamMedisAppBaru.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{201D5A1E-85F3-4877-A044-24D164944638}|RekamMedisAppBaru.csproj|e:\\documents\\kuliah\\lab\\lab ti\\4ia27\\rekayasa perangkat lunak 2\\code\\m5\\rekammedisappbaru\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{201D5A1E-85F3-4877-A044-24D164944638}|RekamMedisAppBaru.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{201D5A1E-85F3-4877-A044-24D164944638}|RekamMedisAppBaru.csproj|e:\\documents\\kuliah\\lab\\lab ti\\4ia27\\rekayasa perangkat lunak 2\\code\\m5\\rekammedisappbaru\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{201D5A1E-85F3-4877-A044-24D164944638}|RekamMedisAppBaru.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Documents\\KULIAH\\Lab\\Lab TI\\4IA27\\Rekayasa Perangkat Lunak 2\\Code\\M5\\RekamMedisAppBaru\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Documents\\KULIAH\\Lab\\Lab TI\\4IA27\\Rekayasa Perangkat Lunak 2\\Code\\M5\\RekamMedisAppBaru\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-19T01:27:34.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Documents\\KULIAH\\Lab\\Lab TI\\4IA27\\Rekayasa Perangkat Lunak 2\\Code\\M5\\RekamMedisAppBaru\\Views\\Patients\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Patients\\Index.cshtml",
+              "ToolTip": "E:\\Documents\\KULIAH\\Lab\\Lab TI\\4IA27\\Rekayasa Perangkat Lunak 2\\Code\\M5\\RekamMedisAppBaru\\Views\\Patients\\Index.cshtml",
+              "RelativeToolTip": "Views\\Patients\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-19T01:26:40.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cetak.cshtml",
+              "DocumentMoniker": "E:\\Documents\\KULIAH\\Lab\\Lab TI\\4IA27\\Rekayasa Perangkat Lunak 2\\Code\\M5\\RekamMedisAppBaru\\Views\\Patients\\Cetak.cshtml",
+              "RelativeDocumentMoniker": "Views\\Patients\\Cetak.cshtml",
+              "ToolTip": "E:\\Documents\\KULIAH\\Lab\\Lab TI\\4IA27\\Rekayasa Perangkat Lunak 2\\Code\\M5\\RekamMedisAppBaru\\Views\\Patients\\Cetak.cshtml",
+              "RelativeToolTip": "Views\\Patients\\Cetak.cshtml",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAgwIEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-19T01:25:59.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PatientsController.cs",
+              "DocumentMoniker": "E:\\Documents\\KULIAH\\Lab\\Lab TI\\4IA27\\Rekayasa Perangkat Lunak 2\\Code\\M5\\RekamMedisAppBaru\\Controllers\\PatientsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PatientsController.cs",
+              "ToolTip": "E:\\Documents\\KULIAH\\Lab\\Lab TI\\4IA27\\Rekayasa Perangkat Lunak 2\\Code\\M5\\RekamMedisAppBaru\\Controllers\\PatientsController.cs",
+              "RelativeToolTip": "Controllers\\PatientsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T01:23:54.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RekamMedisContext.cs",
+              "DocumentMoniker": "E:\\Documents\\KULIAH\\Lab\\Lab TI\\4IA27\\Rekayasa Perangkat Lunak 2\\Code\\M5\\RekamMedisAppBaru\\Data\\RekamMedisContext.cs",
+              "RelativeDocumentMoniker": "Data\\RekamMedisContext.cs",
+              "ToolTip": "E:\\Documents\\KULIAH\\Lab\\Lab TI\\4IA27\\Rekayasa Perangkat Lunak 2\\Code\\M5\\RekamMedisAppBaru\\Data\\RekamMedisContext.cs",
+              "RelativeToolTip": "Data\\RekamMedisContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T15:27:02.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Documents\\KULIAH\\Lab\\Lab TI\\4IA27\\Rekayasa Perangkat Lunak 2\\Code\\M5\\RekamMedisAppBaru\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Documents\\KULIAH\\Lab\\Lab TI\\4IA27\\Rekayasa Perangkat Lunak 2\\Code\\M5\\RekamMedisAppBaru\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T03:29:48.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Documents\\KULIAH\\Lab\\Lab TI\\4IA27\\Rekayasa Perangkat Lunak 2\\Code\\M5\\RekamMedisAppBaru\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\Documents\\KULIAH\\Lab\\Lab TI\\4IA27\\Rekayasa Perangkat Lunak 2\\Code\\M5\\RekamMedisAppBaru\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-12T03:29:24.852Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

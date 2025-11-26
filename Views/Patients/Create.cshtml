@@ -1,0 +1,71 @@
+﻿@model RekamMedisAppBaru.Models.Pasien
+
+@{
+    ViewData["Title"] = "Tambah Pasien Baru";
+}
+
+<h1>Tambah Pasien Baru</h1>
+<h4>Pasien</h4>
+<hr />
+<div class="row">
+    <div class="col-md-8">
+        <form asp-action="Create" method="post">
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label asp-for="Nama" class="control-label"></label>
+                        <input asp-for="Nama" class="form-control" />
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Nik" class="control-label">NIK</label>
+                        <input asp-for="Nik" class="form-control" />
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="TanggalLahir" class="control-label">Tanggal Lahir</label>
+                        <input asp-for="TanggalLahir" class="form-control" type="date" />
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="JenisKelamin" class="control-label">Jenis Kelamin</label>
+                        <select asp-for="JenisKelamin" class="form-control">
+                            <option value="">-- Pilih --</option>
+                            <option value="Laki-Laki">Laki-Laki</option>
+                            <option value="Perempuan">Perempuan</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Agama" class="control-label"></label>
+                        <input asp-for="Agama" class="form-control" />
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label asp-for="Status" class="control-label"></label>
+                        <input asp-for="Status" class="form-control" />
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Pekerjaan" class="control-label"></label>
+                        <input asp-for="Pekerjaan" class="form-control" />
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Pendidikan" class="control-label"></label>
+                        <input asp-for="Pendidikan" class="form-control" />
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="NoTelp" class="control-label">No. Telepon</label>
+                        <input asp-for="NoTelp" class="form-control" />
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Alamat" class="control-label"></label>
+                        <textarea asp-for="Alamat" class="form-control"></textarea>
+                    </div>
+                </div>
+            </div>
+
+            <br />
+            <div class="form-group">
+                <input type="submit" value="Simpan" class="btn btn-primary" />
+                <a asp-action="Index" class="btn btn-secondary">Kembali ke Daftar</a>
+            </div>
+        </form>
+    </div>
+</div>
